@@ -15,6 +15,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Battle.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
+    path: Assets/Scenes/Historia.unity
+    guid: b6a9a395500b6524f9a43bcf85e5ae1b
+  - enabled: 1
     path: Assets/Scenes/Overworld.unity
     guid: 78a8077e50dda1e4a99aceda25ccd55f
   - enabled: 1
