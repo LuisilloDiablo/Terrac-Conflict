@@ -29,5 +29,20 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/GameOver.unity
     guid: b68518ea96d2da04eb3f46ffd02a4021
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: fc41cdffb9e989147a84cc4869e1dfbb
+  - enabled: 1
+    path: Assets/Scenes/Tutorial1.unity
+    guid: 6bcbfdc0ee6d747448bc8358729ef1d0
+  - enabled: 1
+    path: Assets/Scenes/Tutorial2.unity
+    guid: 06685e6c0361d6a4faec630fa689c93d
+  - enabled: 1
+    path: Assets/Scenes/Tutorial3.unity
+    guid: 172d029ac5b6e0f4d962f99a4173d10f
+  - enabled: 1
+    path: Assets/Scenes/Tutorial4.unity
+    guid: ee26cc499eac2c843964d113067241a9
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
