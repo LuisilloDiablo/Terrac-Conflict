@@ -18,7 +18,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Habilidades.unity
     guid: 991bb8ec7907f2349b6f4f3e2e52119c
   - enabled: 1
-    path: Assets/Scenes/Habilidades1.unity
+    path: Assets/Scenes/Habilidades2.unity
     guid: 37b443e07645bdc48bfea37873e513ee
   - enabled: 1
     path: Assets/Scenes/Historia.unity
