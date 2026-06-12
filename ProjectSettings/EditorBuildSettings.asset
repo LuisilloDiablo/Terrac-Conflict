@@ -9,8 +9,14 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu.unity
     guid: ebe83f61ce50b644ba768d261e50f51c
   - enabled: 1
+    path: Assets/Scenes/Historia.unity
+    guid: b6a9a395500b6524f9a43bcf85e5ae1b
+  - enabled: 1
     path: Assets/Scenes/Adventure.unity
     guid: 9aaaefb4281e36a45b3c62c7388cf928
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: b68518ea96d2da04eb3f46ffd02a4021
   - enabled: 1
     path: Assets/Scenes/Battle.unity
     guid: 2cda990e2423bbf4892e6590ba056729
@@ -18,17 +24,14 @@ EditorBuildSettings:
     path: Assets/Scenes/Habilidades.unity
     guid: 991bb8ec7907f2349b6f4f3e2e52119c
   - enabled: 1
+    path: Assets/Scenes/Habilidades1.unity
+    guid: a245abf566baf944e88badef4d35331f
+  - enabled: 1
     path: Assets/Scenes/Habilidades2.unity
     guid: 37b443e07645bdc48bfea37873e513ee
   - enabled: 1
-    path: Assets/Scenes/Historia.unity
-    guid: b6a9a395500b6524f9a43bcf85e5ae1b
-  - enabled: 1
-    path: Assets/Scenes/Overworld.unity
-    guid: 78a8077e50dda1e4a99aceda25ccd55f
-  - enabled: 1
-    path: Assets/Scenes/GameOver.unity
-    guid: b68518ea96d2da04eb3f46ffd02a4021
+    path: Assets/Scenes/Habilidades3.unity
+    guid: 4cd89d11a008f724697647f7d623f909
   - enabled: 1
     path: Assets/Scenes/Tutorial.unity
     guid: fc41cdffb9e989147a84cc4869e1dfbb
@@ -44,5 +47,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Tutorial4.unity
     guid: ee26cc499eac2c843964d113067241a9
+  - enabled: 1
+    path: Assets/Scenes/Overworld.unity
+    guid: 78a8077e50dda1e4a99aceda25ccd55f
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
